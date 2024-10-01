@@ -167,6 +167,7 @@ nav {
   font-size: 3rem;
   margin-right: 1rem;
 }
+
 .contact-page-wrapper h1 {
   max-width: 900px !important;
 }
@@ -241,6 +242,10 @@ nav {
   border-radius: 2rem;
   flex-direction: column;
   text-align: center;
+}
+.testimonial-image{
+  height: 90px;
+  border-radius: 50%;
 }
 .testimonial-section-bottom {
   margin: 2rem auto;
